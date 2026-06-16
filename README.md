@@ -57,8 +57,6 @@
 
 </div>
 
-> 🤖 Stats are **auto-updated every 30 minutes** via GitHub Actions — cached locally for reliability
-
 ---
 
 ## 🏆 GitHub Trophies
