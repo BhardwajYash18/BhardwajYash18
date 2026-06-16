@@ -48,16 +48,16 @@
 
 <div align="center">
 
-<img src="assets/github-stats.svg" alt="GitHub Stats" width="49%" />
-<img src="assets/top-langs.svg" alt="Top Languages" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=BhardwajYash18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&border_radius=8&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhardwajYash18&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&border_radius=8&count_private=true" alt="Top Languages" width="49%" />
 
-<img src="assets/github-streak.svg" alt="GitHub Streak" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhardwajYash18&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&currStreakLabel=00BFFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=8" alt="GitHub Streak" width="70%" />
 
-<img src="assets/activity-graph.svg" alt="Activity Graph" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhardwajYash18&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true&border_radius=8" alt="Activity Graph" width="98%" />
 
 </div>
 
-> 🤖 Stats are **auto-updated every 30 minutes** via GitHub Actions
+> 🤖 Stats are **auto-updated every 30 minutes** via GitHub Actions — cached locally for reliability
 
 ---
 
