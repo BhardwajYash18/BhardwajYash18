@@ -48,8 +48,18 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhardwajYash18&theme=tokyonight" alt="GitHub Stats" width="48%" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BhardwajYash18&theme=tokyonight" alt="Top Languages" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhardwajYash18&theme=tokyonight" alt="GitHub Stats" width="60%" />
+
+<br/><br/>
+
+### 🗣️ Languages I Work With
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <br/><br/>
 
