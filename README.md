@@ -48,8 +48,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BhardwajYash18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&border_radius=8&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhardwajYash18&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&border_radius=8&count_private=true&langs_count=8&cache_seconds=1800" alt="Top Languages" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhardwajYash18&theme=tokyonight" alt="GitHub Stats" width="48%" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BhardwajYash18&theme=tokyonight" alt="Top Languages" width="48%" />
 
 <br/><br/>
 
