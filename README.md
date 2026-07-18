@@ -45,8 +45,8 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
+
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhardwajYash18&theme=tokyonight" alt="GitHub Stats" width="60%" />
 
@@ -69,6 +69,14 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhardwajYash18&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true&border_radius=8" alt="Activity Graph" width="98%" />
 
+
+  <img src="assets/github-stats.svg" alt="GitHub Stats" width="49%" />
+  <img src="assets/github-streak.svg" alt="GitHub Streak" width="49%" />
+  <br/>
+  <img src="assets/top-langs.svg" alt="Top Languages" width="60%" />
+  <br/>
+  <img src="assets/activity-graph.svg" alt="Activity Graph" width="98%" />
+15280aa (Live Stats Update Correction)
 </div>
 
 ---
