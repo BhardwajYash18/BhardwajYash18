@@ -46,37 +46,12 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhardwajYash18&theme=tokyonight" alt="GitHub Stats" width="60%" />
-
-<br/><br/>
-
-### 🗣️ Languages I Work With
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=BhardwajYash18&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&currStreakLabel=00BFFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=8" alt="GitHub Streak" width="70%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhardwajYash18&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true&border_radius=8" alt="Activity Graph" width="98%" />
-
-
   <img src="assets/github-stats.svg" alt="GitHub Stats" width="49%" />
   <img src="assets/github-streak.svg" alt="GitHub Streak" width="49%" />
   <br/>
   <img src="assets/top-langs.svg" alt="Top Languages" width="60%" />
   <br/>
   <img src="assets/activity-graph.svg" alt="Activity Graph" width="98%" />
-15280aa (Live Stats Update Correction)
 </div>
 
 ---
