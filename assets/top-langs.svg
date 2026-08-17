@@ -129,7 +129,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="159.27"
+          width="159.17"
           height="8"
           fill="#DA5B0B"
         />
@@ -137,9 +137,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="159.27"
+          x="159.17"
           y="0"
-          width="59.33"
+          width="59.29"
           height="8"
           fill="#f1e05a"
         />
@@ -147,7 +147,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="218.60000000000002"
+          x="218.45999999999998"
           y="0"
           width="13.22"
           height="8"
@@ -157,9 +157,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="231.82000000000002"
+          x="231.67999999999998"
           y="0"
-          width="18.67"
+          width="18.810000000000002"
           height="8"
           fill="#b07219"
         />
@@ -167,7 +167,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="240.49"
+          x="240.48999999999998"
           y="0"
           width="17.12"
           height="8"
@@ -177,7 +177,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="247.61"
+          x="247.60999999999999"
           y="0"
           width="12.39"
           height="8"
@@ -190,14 +190,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 63.71%
+        Jupyter Notebook 63.67%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 23.73%
+        JavaScript 23.72%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -211,7 +211,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 3.47%
+        Java 3.53%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
