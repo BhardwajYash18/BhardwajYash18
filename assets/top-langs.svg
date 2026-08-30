@@ -129,7 +129,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="157.91"
+          width="157.74"
           height="8"
           fill="#DA5B0B"
         />
@@ -137,9 +137,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="157.91"
+          x="157.74"
           y="0"
-          width="58.82"
+          width="58.76"
           height="8"
           fill="#f1e05a"
         />
@@ -147,9 +147,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="216.73"
+          x="216.5"
           y="0"
-          width="13.31"
+          width="13.29"
           height="8"
           fill="#3572A5"
         />
@@ -157,9 +157,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="230.04"
+          x="229.79"
           y="0"
-          width="10.53"
+          width="10.79"
           height="8"
           fill="#b07219"
         />
@@ -167,9 +167,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="240.57"
+          x="240.57999999999998"
           y="0"
-          width="17.06"
+          width="17.05"
           height="8"
           fill="#663399"
         />
@@ -190,14 +190,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 63.17%
+        Jupyter Notebook 63.10%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 23.53%
+        JavaScript 23.50%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -211,7 +211,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 4.21%
+        Java 4.32%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
