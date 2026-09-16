@@ -13,15 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
-        
-      - name: Generate Activity Graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
-        with:
-          username: BhardwajYash18
-          options: "bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true&border_radius=8&radius=8"
-          output_path: assets/activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+        uses: actions/checkout@v4
 
       - name: Create Assets Directory
         run: mkdir -p assets
@@ -36,10 +28,13 @@ jobs:
           curl -s "https://github-readme-streak-stats.herokuapp.com/?user=BhardwajYash18&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&currStreakLabel=00BFFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=8" -o temp_streak.svg
           if grep -q "<svg" temp_streak.svg; then mv temp_streak.svg assets/github-streak.svg; fi
 
-      - name: Fetch Activity Graph
-        run: |
-          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=BhardwajYash18&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true&border_radius=8" -o temp_graph.svg
-          if grep -q "<svg" temp_graph.svg; then mv temp_graph.svg assets/activity-graph.svg; fi
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: BhardwajYash18
+          options: "bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true&border_radius=8&radius=8"
+          output_path: assets/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Fetch Top Languages
         run: |
