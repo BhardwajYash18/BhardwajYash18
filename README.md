@@ -68,17 +68,17 @@
 
 ## 📌 Featured Project
 
-### 💰 [Finance Tracker — Personal Expense Management System](https://github.com/BhardwajYash18/PL-2-Project)
+###  [Finance Tracker — Personal Expense Management System](https://github.com/BhardwajYash18/PL-2-Project)
 
 > A structured application to manage **income, expenses, and balance tracking**
 
-- 🏗️ Built using **OOP principles and file handling** for persistent storage
-- 💡 Designed logic for **real-time balance updates and categorized transactions**
-- 🎯 Focused on building a **practical, user-centric financial management tool**
+-  Built using **OOP principles and file handling** for persistent storage
+-  Designed logic for **real-time balance updates and categorized transactions**
+-  Focused on building a **practical, user-centric financial management tool**
 
 ---
 
-## 🎯 Current Focus & Goals
+##  Current Focus & Goals
 
 | 📈 Currently Learning | 🎯 Goals |
 |---|---|
@@ -88,7 +88,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 
 <div align="center">
 
