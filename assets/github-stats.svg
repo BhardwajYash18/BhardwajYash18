@@ -8,7 +8,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yash Bhardwaj's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 14, Total Commits  : 1104, Total PRs: 3, Total Issues: 1, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 14, Total Commits  : 1116, Total PRs: 3, Total Issues: 1, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -72,7 +72,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 198.8446410097124;
+        stroke-dashoffset: 198.68322252238823;
       }
     }
   
